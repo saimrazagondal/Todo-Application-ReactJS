@@ -1,0 +1,13 @@
+header{
+    padding: 4px;
+    
+    border-bottom: 1px dotted black;
+    margin-bottom: 2%
+}
+
+h2{
+    font-family: 'Arial';
+    font-size: 18pt;
+    text-align: center;
+}
+
